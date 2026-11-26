@@ -42,5 +42,6 @@ I also spent years automating data analysis in R and Python for research project
 - 💼 [LinkedIn](https://www.linkedin.com/in/nicolas-cancino-adriasola)
 - 📫 nicolas.cancino.a@mail.pucv.cl
 - 📍 Viña del Mar, Chile · open to remote
+- - 📄 CV: [Español](CV_Nicolas_Cancino_ES.pdf) · [English](CV_Nicolas_Cancino_EN.pdf)
 
 *Currently looking for my first role in security monitoring, IT support (L1) or AI training / data annotation.*
